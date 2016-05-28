@@ -108,6 +108,8 @@ Now callover mountains cold,
 Herethe Gates the king awaits,
 His hands are rich withand gold.
  
+//This paragraph is deleted after forking by Pankaj Rasgania
+
 & Theis come unto his hall
 & Under the Mountainand tall.
 & Worm of Dread is slain and dead,
